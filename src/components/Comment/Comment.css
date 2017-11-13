@@ -1,0 +1,14 @@
+.comment {
+  /*display: flex;
+  align-items: stretch;
+  align-content: center;*/
+}
+.comment-text {
+  display: inline-block;
+}
+.comment-delete {
+  color: red;
+  margin-left: 8px;
+  cursor: pointer;
+  display: inline-block;
+}
